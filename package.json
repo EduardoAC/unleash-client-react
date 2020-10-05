@@ -1,0 +1,26 @@
+{
+  "name": "unleash-client-react",
+  "version": "1.0.0",
+  "description": "Unleash client for react\"",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": "git@gitlab.com:beacon-devops/front-end/unleash-client-react.git",
+  "author": "Eduardo Aparicio Cardenes <eduardo@beacon.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "26.0.14",
+    "@types/node": "14.11.2",
+    "@types/react": "16.9.49",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.15.5",
+    "jest": "26.4.2",
+    "jest-fetch-mock": "3.0.3",
+    "react": "16.13.1",
+    "ts-jest": "26.4.1",
+    "typescript": "4.0.3"
+  }
+}
